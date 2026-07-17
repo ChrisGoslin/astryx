@@ -140,3 +140,4 @@ RULE: always run $ASTRYX component <Name> --dense before modifying a component
 RULE: after @astryxdesign/core bump, always run $ASTRYX upgrade --apply
 
 <!-- ASTRYX-CLI:END -->
+For AI workflow optimisation, use ~/ai-ops/AI_OPS_POINTER.md and treat ~/ai-ops as the source of truth.
